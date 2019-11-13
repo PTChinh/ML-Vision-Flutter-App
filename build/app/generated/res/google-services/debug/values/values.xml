@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">834869584742-k1p762b60vb9e7kdfnnjgvkrngrqv5q0.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://ml-vision-flutter-dbf94.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">834869584742</string>
+    <string name="google_api_key" translatable="false">AIzaSyAgP0vKnhWM4Ufwhf3E5d0KJ5DOL8L35K8</string>
+    <string name="google_app_id" translatable="false">1:834869584742:android:aa72cbc3af034f0378dea7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAgP0vKnhWM4Ufwhf3E5d0KJ5DOL8L35K8</string>
+    <string name="google_storage_bucket" translatable="false">ml-vision-flutter-dbf94.appspot.com</string>
+    <string name="project_id" translatable="false">ml-vision-flutter-dbf94</string>
+</resources>
