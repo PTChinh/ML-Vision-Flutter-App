@@ -9,7 +9,7 @@ class MLkitProvider {
     File _image = image;
     final FirebaseVisionImage visionImage = FirebaseVisionImage.fromFile(_image);
     final TextRecognizer textRecognizer = firebaseVision.textRecognizer();
-    final VisionText visionText = await textRecognizer.detectInImage(visionImage);
+    final VisionText visionText = await textRecognizer.processImage(visionImage);
     String detectedText = visionText.text;
 
     return detectedText;
